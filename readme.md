@@ -1,1 +1,5 @@
 "I’m still screwed."
+"OOps"
+"Fixed again"
+"I’m the best."
+"No, I’m the best"
